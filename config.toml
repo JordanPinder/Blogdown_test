@@ -1,10 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Blogdown test"
 theme = "hugo-lithium"
-googleAnalytics = ""
+googleAnalytics = "" 
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"] 
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
