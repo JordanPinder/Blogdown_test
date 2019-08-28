@@ -1,0 +1,14 @@
+---
+title: Jordan's first post
+author: Jordan Pinder
+date: '2019-08-28'
+slug: my-first-post
+categories:
+  - R
+  - test
+tags:
+  - R Markdown
+  - demo
+---
+
+A new post for testing the Blogdown package. 
